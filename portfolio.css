@@ -1,0 +1,164 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1 img{
+    height: 500px;
+    width: 1319px;
+}
+
+h1 hr{
+    padding: 85px;
+    margin-top: -70px;
+    height: -10px;
+    background-color: #352f44;
+}
+
+h2 hr{
+    margin-top: -100px;
+}
+
+h3 hr{
+    margin-top: -250px;
+    position: absolute;
+    background-color: #0e2431;
+    border-radius: 10px;
+    padding: 3px;
+    width: 750px;
+    margin-left: 277px;
+}
+
+
+h4{
+    margin-top: -485px;
+    position: absolute;
+}
+
+h4 a{
+    color: white;
+    margin-left: 1150px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    text-decoration: overline;
+}
+
+h4 a:hover{
+    color: blue;
+}
+
+h5{
+    margin-top: -485px;
+    position: absolute;
+}
+
+h5 a{
+    color: white;
+    margin-left: 950px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    text-decoration: none;
+    text-decoration: overline;
+}
+
+h5 a:hover{
+    color: blue;
+}
+
+h6{
+    color: white;
+    margin-top: -380px;
+    margin-left: 480px;
+    font-family: Bookman Old Style;
+    font-size: 50px;
+}
+
+h7{
+    color: white;
+    margin-left: 360px;
+    margin-top: -510px;
+    font-family: Bookman Old Style;
+    font-size: 30px;
+}
+
+.bottom nav h1{
+    color: white;
+    margin-top: 60px;
+    margin-left: 330px;
+    font-family: Trebuchet MS;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.bottom nav h2 img{
+    padding: 30px;
+    border-radius: 50px;
+    height: 33px;
+    width: 60px;
+    margin-top: 195px;
+    margin-left: -20px;
+}
+
+.top h1{
+    color: white;
+    font-family: Segoe UI;
+    font-size: 15px;
+    margin-top: -63px;
+    margin-left: 67px;
+}
+
+.top h2{
+    color: white;
+    font-family: Segoe UI;
+    font-size: 15px;
+    margin-top: -20px;
+    margin-left: 345px; 
+}
+
+.insta img{
+    padding: 30px;
+    border-radius: 50px;
+    height: 33px;
+    width: 35px;
+    margin-top: -54px;
+    margin-left: 275px;
+}
+
+.acc h1{
+    color: white;
+    font-family: Segoe UI;
+    font-size: 15px;
+    margin-top: -65px;
+    margin-left: 515px; 
+}
+
+.acc img{
+    padding: 30px;
+    border-radius: 50px;
+    height: 33px;
+    width: 35px;
+    margin-top: -51px;
+    margin-left: 435px;
+}
+
+.phone h1{
+    color: white;
+    font-family: Segoe UI;
+    font-size: 15px;
+    margin-top: -65px;
+    margin-left: 1070px; 
+}
+
+.phone img{
+    padding: 30px;
+    border-radius: 50px;
+    height: 33px;
+    width: 35px;
+    margin-top: -56px;
+    margin-left: 990px;
+}
+
+
+
+

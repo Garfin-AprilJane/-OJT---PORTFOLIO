@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #718CA1;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    padding: 30px;
+    font-family: Bookman Old Style;
+    border-bottom: #618685;
+}
+
+h2 a{
+    color: white;
+    margin-left: 1000px;
+    margin-top: -70px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    position: absolute;
+    text-decoration: overline;
+}
+
+h2 a:hover{
+    color: blue;
+}
+
+h3 a{
+    color: white;
+    margin-left: 1115px;
+    margin-top: -70px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    position: absolute;
+    text-decoration: overline;
+}
+
+h3 a:hover{
+    color: blue;
+}
+
+h4 img{
+    padding: 50px;
+    border-radius: 70px;
+    width: 350px;
+    height: 350px;
+    margin-top: 10px;
+}
+
+.link{
+    margin-top: -20px;
+}
+
+.link a{
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 163px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bookman Old Style;
+    text-decoration: none;
+}
+
+.things{
+    color: black;
+    font-family: Segoe UI black;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: overline;
+    margin-top: -400px;
+    margin-left: 600px;
+}
+
+.items{
+    margin-left: 510px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.list{
+    color: black;
+    font-family: Segoe UI black;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: overline;
+    margin-top: -378px;
+    margin-left: 920px;
+}
+
+.achieve{
+    margin-left: 970px;
+    margin-top: 40px;
+    font-size: 20px;
+}
